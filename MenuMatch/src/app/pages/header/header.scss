@@ -1,0 +1,14 @@
+#ontainer
+{
+    display: flex;
+    padding: 0px 30px;
+    margin-bottom: 20px;
+    background-color: rgb(231, 167, 71);
+
+    #links {
+        flex-grow: 1;
+        display: flex;
+        gap: 20px;
+        justify-content: right;
+    }
+}
